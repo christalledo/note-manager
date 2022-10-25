@@ -6,10 +6,19 @@
 
 ## Table of Contents
 
+- [Languages](#languages)
 - [Technology](#technology)
 - [Description](#description)
 - [Usage](#usage)
 - [Credits](#credits)
+
+# Languages
+
+- CSS
+- HTML
+- Javascript
+- Node.js
+- Express
 
 # Technology
 
