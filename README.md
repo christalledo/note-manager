@@ -30,6 +30,9 @@ This website is created to keep track of notes in which the user wants to rememb
 
 ## Usage
 
+<img src = "./Note Taker - Google Chrome 10_25_2022 9_52_57 AM.png">
+<img src = "./Note Taker - Google Chrome 10_25_2022 9_53_04 AM.png>
+
 ## Credits
 
 This was coded by Christian Talledo.
